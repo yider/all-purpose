@@ -1,0 +1,3 @@
+中文乱码解决测试成功
+尝试一下Git Bash右键->Options->Text->Locale改为zh_CN，Character set改为UTF-8
+关闭再打开，至少ls命令的中文文件名可以正常显示，其他功能未尝试
